@@ -1,0 +1,10 @@
+C:\Users\joaov\OneDrive - Universidade Federal de Uberlândia\Graduacao\Eng_Biomed_11_Periodo\POO\LAB03_Exercicio_Prova2\P2_Q1\P2_Q1\bin\Debug\P2_Q1.exe.config
+C:\Users\joaov\OneDrive - Universidade Federal de Uberlândia\Graduacao\Eng_Biomed_11_Periodo\POO\LAB03_Exercicio_Prova2\P2_Q1\P2_Q1\bin\Debug\P2_Q1.exe
+C:\Users\joaov\OneDrive - Universidade Federal de Uberlândia\Graduacao\Eng_Biomed_11_Periodo\POO\LAB03_Exercicio_Prova2\P2_Q1\P2_Q1\bin\Debug\P2_Q1.pdb
+C:\Users\joaov\OneDrive - Universidade Federal de Uberlândia\Graduacao\Eng_Biomed_11_Periodo\POO\LAB03_Exercicio_Prova2\P2_Q1\P2_Q1\obj\Debug\P2_Q1.csproj.AssemblyReference.cache
+C:\Users\joaov\OneDrive - Universidade Federal de Uberlândia\Graduacao\Eng_Biomed_11_Periodo\POO\LAB03_Exercicio_Prova2\P2_Q1\P2_Q1\obj\Debug\P2_Q1.Properties.Resources.resources
+C:\Users\joaov\OneDrive - Universidade Federal de Uberlândia\Graduacao\Eng_Biomed_11_Periodo\POO\LAB03_Exercicio_Prova2\P2_Q1\P2_Q1\obj\Debug\P2_Q1.csproj.GenerateResource.cache
+C:\Users\joaov\OneDrive - Universidade Federal de Uberlândia\Graduacao\Eng_Biomed_11_Periodo\POO\LAB03_Exercicio_Prova2\P2_Q1\P2_Q1\obj\Debug\P2_Q1.csproj.CoreCompileInputs.cache
+C:\Users\joaov\OneDrive - Universidade Federal de Uberlândia\Graduacao\Eng_Biomed_11_Periodo\POO\LAB03_Exercicio_Prova2\P2_Q1\P2_Q1\obj\Debug\P2_Q1.exe
+C:\Users\joaov\OneDrive - Universidade Federal de Uberlândia\Graduacao\Eng_Biomed_11_Periodo\POO\LAB03_Exercicio_Prova2\P2_Q1\P2_Q1\obj\Debug\P2_Q1.pdb
+C:\Users\joaov\OneDrive - Universidade Federal de Uberlândia\Graduacao\Eng_Biomed_11_Periodo\POO\LAB03_Exercicio_Prova2\P2_Q1\P2_Q1\obj\Debug\P2_Q1.Form1.resources

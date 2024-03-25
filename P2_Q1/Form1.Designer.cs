@@ -132,9 +132,11 @@
             // 
             // pictureBox1
             // 
+            this.pictureBox1.Image = global::P2_Q1.Properties.Resources.Branco;
             this.pictureBox1.Location = new System.Drawing.Point(466, 71);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(182, 195);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 9;
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);

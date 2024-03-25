@@ -17,8 +17,9 @@ namespace P2_Q1
         public Form1()
         {
             InitializeComponent();
-            pictureBox1.Image = Properties.Resources.caminhao;
             gerarGradeListView();
+            pictureBox1.Image = Properties.Resources.Branco;
+
 
         }
         public void gerarGradeListView()
@@ -71,7 +72,8 @@ namespace P2_Q1
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
-            mtbPlaca.Mask = "LLL-0000"; 
+            mtbPlaca.Mask = "LLL-0000";
+            pictureBox1.Image = Properties.Resources.Caminhao;
 
             label1.Text = "Placa";
             label2.Text = "Ano";
@@ -157,6 +159,8 @@ namespace P2_Q1
             mtbPlaca.Text = string.Empty;
             maskedTextBox2.Text = string.Empty;
             maskedTextBox3.Text = string.Empty;
+            pictureBox1.Image = Properties.Resources.Branco;
+
         }
 
         private void btLimpar_Click(object sender, EventArgs e)
@@ -171,7 +175,8 @@ namespace P2_Q1
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
-            mtbPlaca.Mask = "LLL-0000"; 
+            mtbPlaca.Mask = "LLL-0000";
+            pictureBox1.Image = Properties.Resources.Onibus;
 
             label1.Text = "Placa";
             label2.Text = "Ano";
